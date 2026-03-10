@@ -1,63 +1,73 @@
-# 🔐 前端安全与防护
+# 🛡️ 安全与防护
 
 > Web 安全、数据保护、JS 逆向防护、认证授权
 
 ---
 
-## 📚 分类导航
+## 📚 文章列表
 
-| 主题 | 难度 | 文章数 |
-|------|------|--------|
-| [Web 安全与防护](./web-security.md) | ⭐⭐⭐⭐⭐ | 10+ 篇 |
-| [JS 逆向防护](./js-reverse-protection.md) | ⭐⭐⭐⭐⭐ | 10+ 篇 |
-| [认证与授权](./auth.md) | ⭐⭐⭐⭐ | 8+ 篇 |
-| [数据安全](./data-security.md) | ⭐⭐⭐⭐ | 6+ 篇 |
+| 文章 | 难度 | 主题 |
+|------|------|------|
+| [Web 安全与防护](./web-security.md) | ⭐⭐⭐⭐⭐ | OWASP、XSS、CSRF、认证授权 |
+| [JS 逆向防护](./js-reverse-protection.md) | ⭐⭐⭐⭐⭐ | 混淆、反调试、指纹识别 |
 
 ---
 
-## 🔥 精选文章
-
-### OWASP Top 10 2025
-
-- **链接**: [OWASP Top 10](https://owasp.org/Top10/2025/)
-- **难度**: ⭐⭐⭐⭐⭐
-- **简介**: Web 应用安全十大风险标准
-
-### Web Security Academy
-
-- **链接**: [PortSwigger Academy](https://portswigger.net/web-security)
-- **难度**: ⭐⭐⭐⭐⭐
-- **简介**: 免费的 Web 安全实战培训平台
-
-### JavaScript 代码保护
-
-- **链接**: [JS Obfuscation](https://javascriptobfuscator.com/)
-- **难度**: ⭐⭐⭐⭐
-- **简介**: 代码混淆与逆向防护技术
-
----
-
-## 📖 学习路径
+## 🎯 学习路径
 
 ```
-初级安全 (1-2 个月)
+安全基础 (1-2 个月)
 ├─ HTTPS/TLS 基础
+├─ Cookie 安全属性
 ├─ XSS 基础与防御
-├─ Cookie 安全
 └─ 输入验证
 
-中级安全 (3-6 个月)
+安全进阶 (3-6 个月)
 ├─ OAuth 2.0 / OIDC
 ├─ JWT 安全
 ├─ CSP 配置
 └─ CSRF 防护
 
-高级安全 (6-12 个月)
+安全高级 (6-12 个月)
 ├─ OWASP Top 10 深入
 ├─ JS 逆向防护
 ├─ 反调试技术
 └─ WebAssembly 保护
 ```
+
+---
+
+## 🔥 核心文章
+
+### Web 安全与防护
+
+**涵盖主题：**
+- OWASP Top 10 2025 标准
+- XSS 攻击与防御
+- CSRF 防护
+- 认证授权 (OAuth 2.0、JWT)
+- 敏感数据保护
+- 传输安全 (HTTPS/TLS)
+
+**适合人群：** 所有前端开发者
+
+**前置知识：** HTTP 基础、JavaScript 基础
+
+---
+
+### JS 逆向防护
+
+**涵盖主题：**
+- 代码混淆技术
+- 反调试检测
+- 浏览器指纹识别
+- WebAssembly 代码保护
+- API 签名与验签
+- 业务逻辑保护
+
+**适合人群：** 中高级前端开发者
+
+**前置知识：** JavaScript 深入、安全基础
 
 ---
 
@@ -73,17 +83,12 @@
 
 ---
 
-## 📚 权威资源
+## 📖 权威资源
 
 - [OWASP](https://owasp.org/) - Web 安全标准组织
-- [PortSwigger](https://portswigger.net/) - Web 安全研究
-- [Auth0 Blog](https://auth0.com/blog/) - 认证授权专家博客
-- [Google Security](https://security.googleblog.com/) - Google 安全博客
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security) - 免费安全培训
+- [Google Security Blog](https://security.googleblog.com/) - Google 安全博客
 
 ---
 
-<div align="center">
-
 [返回主页](../README.md)
-
-</div>
