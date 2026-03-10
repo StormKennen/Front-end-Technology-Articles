@@ -100,6 +100,11 @@ Front-end-Technology-Articles/
 ### ⚡ 性能优化 (高级)
 - [性能优化实战](./performance/optimization.md) - Web Vitals、渲染优化、监控
 
+### 🇨🇳 中文社区 (中高级)
+- [中文文章精选](./chinese-community/README.md) - 掘金、知乎、极客时间
+- [掘金高赞](./chinese-community/juejin-hot.md) - 点赞 100+ 高质量文章
+- [知乎深度](./chinese-community/zhihu-deep.md) - 技术深度、职场经验
+
 ### 进阶主题
 - [TypeScript](./advanced/typescript.md) - 类型系统、高级类型
 - [WebAssembly](./advanced/webassembly.md) - 高性能计算
