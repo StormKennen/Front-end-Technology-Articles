@@ -59,6 +59,18 @@ Front-end-Technology-Articles/
 
 ## 🔥 本月精选 (2026 年 3 月)
 
+### 高级专题
+
+| 标题 | 分类 | 来源 | 难度 |
+|------|------|------|------|
+| [OWASP Top 10 2025](https://owasp.org/Top10/2025/) | 安全 | OWASP | ⭐⭐⭐⭐⭐ |
+| [Web Security Academy](https://portswigger.net/web-security) | 安全 | PortSwigger | ⭐⭐⭐⭐⭐ |
+| [JavaScript Obfuscation](https://javascriptobfuscator.com/) | 防护 | JS Obfuscator | ⭐⭐⭐⭐ |
+| [Web Vitals](https://web.dev/vitals/) | 性能 | Google | ⭐⭐⭐⭐ |
+| [Micro Frontends](https://micro-frontends.org/) | 架构 | micro-frontends.org | ⭐⭐⭐⭐⭐ |
+
+### CSS 新特性
+
 | 标题 | 分类 | 来源 | 难度 |
 |------|------|------|------|
 | [Popover API or Dialog API: Which to Choose?](https://css-tricks.com/popover-api-or-dialog-api-which-to-choose/) | CSS/API | CSS-Tricks | ⭐⭐⭐ |
@@ -80,15 +92,13 @@ Front-end-Technology-Articles/
 - [Angular](./frameworks/angular.md) - 企业级应用
 - [Svelte](./frameworks/svelte.md) - 编译时框架
 
-### 工程化
-- [构建工具](./engineering/build-tools.md) - Vite、Webpack、Rollup
-- [包管理器](./engineering/package-managers.md) - npm、pnpm、yarn
-- [CI/CD](./engineering/ci-cd.md) - 自动化部署
+### 🔐 安全与防护 (高级)
+- [Web 安全与防护](./security/web-security.md) - OWASP、XSS、CSRF、认证授权
+- [JS 逆向防护](./security/js-reverse-protection.md) - 混淆、反调试、指纹识别
+- [架构与工程化](./engineering/architecture.md) - 微前端、Monorepo、CI/CD
 
-### 性能优化
-- [Web Vitals](./performance/web-vitals.md) - 核心指标
-- [优化技巧](./performance/optimization.md) - 加载、渲染、交互
-- [监控方案](./performance/monitoring.md) - 性能监控
+### ⚡ 性能优化 (高级)
+- [性能优化实战](./performance/optimization.md) - Web Vitals、渲染优化、监控
 
 ### 进阶主题
 - [TypeScript](./advanced/typescript.md) - 类型系统、高级类型
