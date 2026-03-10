@@ -59,6 +59,15 @@ Front-end-Technology-Articles/
 
 ## 🔥 本月精选 (2026 年 3 月)
 
+### 🆕 新增主题
+| 标题 | 分类 | 来源 | 难度 |
+|------|------|------|------|
+| [TypeScript 条件类型](https://www.typescriptlang.org/docs/handbook/2/conditional-types.html) | TS | 官方文档 | ⭐⭐⭐⭐⭐ |
+| [WebAssembly 概念](https://developer.mozilla.org/zh-CN/docs/WebAssembly/Concepts) | WASM | MDN | ⭐⭐⭐⭐ |
+| [低代码引擎](https://lowcode-engine.cn/) | 低代码 | 阿里 | ⭐⭐⭐⭐⭐ |
+| [TensorFlow.js](https://www.tensorflow.org/js) | AI | Google | ⭐⭐⭐⭐ |
+| [NestJS 企业级开发](https://nestjs.com/) | Node.js | NestJS | ⭐⭐⭐⭐⭐ |
+
 ### 高级专题
 
 | 标题 | 分类 | 来源 | 难度 |
@@ -105,11 +114,14 @@ Front-end-Technology-Articles/
 - [掘金高赞](./chinese-community/juejin-hot.md) - 点赞 100+ 高质量文章
 - [知乎深度](./chinese-community/zhihu-deep.md) - 技术深度、职场经验
 
-### 进阶主题
-- [TypeScript](./advanced/typescript.md) - 类型系统、高级类型
-- [WebAssembly](./advanced/webassembly.md) - 高性能计算
-- [PWA](./advanced/pwa.md) - 渐进式 Web 应用
-- [Web Components](./advanced/web-components.md) - 自定义元素
+### 🎯 进阶主题 (高级)
+- [TypeScript 高级类型](./advanced/typescript.md) - 类型体操、条件类型、泛型
+- [WebAssembly 实战](./advanced/webassembly.md) - 性能敏感场景、Rust 开发
+- [低代码/搭建平台](./advanced/lowcode.md) - 可视化搭建、Schema 驱动
+- [AI 与前端结合](./advanced/ai-frontend.md) - TensorFlow.js、大模型集成
+
+### 🟢 全栈开发
+- [Node.js 全栈](./fullstack/nodejs.md) - 服务端开发、BFF 层、API 设计
 
 ---
 
