@@ -33,7 +33,9 @@ Front-end-Technology-Articles/
 │   └── javascript.md        # JavaScript 核心概念、异步编程
 │
 ├── ⚛️ 框架生态 (frameworks/)
-│   └── react.md             # React Hooks、生态、最佳实践
+│   ├── react.md             # React Hooks、生态、最佳实践
+│   ├── vue.md               # Vue 3、Composition API、生态库
+│   └── libraries.md         # HTTP、状态管理、表单、UI 组件等
 │
 ├── 🛡️ 安全与防护 (security/)
 │   ├── web-security.md      # OWASP、XSS、CSRF、认证授权
@@ -79,7 +81,7 @@ Front-end-Technology-Articles/
 | 主题 | 文章数 | 链接 |
 |------|--------|------|
 | 📖 基础核心 | 30+ | [HTML](./fundamentals/html.md) · [CSS](./fundamentals/css.md) · [JavaScript](./fundamentals/javascript.md) |
-| ⚛️ 框架库 | 10+ | [React](./frameworks/react.md) |
+| ⚛️ 框架库 | 25+ | [React](./frameworks/react.md) · [Vue](./frameworks/vue.md) · [常用库](./frameworks/libraries.md) |
 | 🛡️ 安全 | 30+ | [Web 安全](./security/web-security.md) · [JS 逆向防护](./security/js-reverse-protection.md) |
 | ⚡ 性能 | 10+ | [性能优化](./performance/optimization.md) |
 | 🏗️ 工程化 | 10+ | [架构与工程化](./engineering/architecture.md) |
